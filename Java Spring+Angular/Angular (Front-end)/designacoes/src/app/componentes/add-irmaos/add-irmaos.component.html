@@ -1,0 +1,19 @@
+<input
+  class="addirmao"
+  type="text"
+  [(ngModel)]="this.irmao.nomePublicador"
+  placeholder="Nome do Irmão"/>
+
+<br><br>
+
+<button (click)="addIrmao()" (click)="alert()" >Salvar nome</button>
+<button routerLink = "/home">Voltar para Home</button>
+<br><br>
+
+<div *ngFor=" let irmao of listaIrmaos" >
+  {{ irmao.nomePublicador }}
+  <button class="btn" (click)="atualizarIrmao(irmao)"><i class="bi bi-pencil"></i></button>
+  <button  class="btn" (click)="delete(irmao.id)"><i  class="bi bi-trash"></i></button>
+</div>
+
+

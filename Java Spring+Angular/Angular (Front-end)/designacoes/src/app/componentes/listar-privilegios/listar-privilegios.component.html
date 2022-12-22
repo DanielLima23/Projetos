@@ -1,0 +1,14 @@
+
+<br>
+  <main>
+    <button routerLink="/addPrivilegio">Adicionar Privilégio</button>
+    <button routerLink="/home" >Voltar para Home</button>
+
+    <div *ngFor="let privilegios of this.listaPrivilegios">
+      <li>
+          {{ privilegios.nomePrivilegio }}
+          <button class="btn" [routerLink]="['/addPrivilegio', privilegios.id]"><i class="bi bi-pencil"></i></button>
+          <button class="btn" (click)="delete(privilegios.id)"><i class="bi bi-trash"></i></button>
+    </li>
+    </div>
+  </main>

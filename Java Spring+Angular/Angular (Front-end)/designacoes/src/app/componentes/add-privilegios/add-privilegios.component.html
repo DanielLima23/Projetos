@@ -1,0 +1,18 @@
+<br>
+<input
+  type="text"
+  [(ngModel)]="this.privilegio.nomePrivilegio"
+  placeholder="Nome do Privilégio"
+/>
+<br><br>
+<button (click)="addPrivilegio()" (click)="alert()" >Salvar Privilégio</button>
+
+<button routerLink="/home" >Voltar para Home</button>
+
+<br><br>
+<div *ngFor="let privilegio of listaPrivilegio" >
+  {{ privilegio.nomePrivilegio }}
+  <button class="btn" (click)="atualizarPrivilegio(privilegio)"><i class="bi bi-pencil"></i></button>
+  <button class="btn" (click)="delete(privilegio.id)"><i class="bi bi-trash"></i></button>
+</div>
+

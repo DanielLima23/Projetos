@@ -1,0 +1,24 @@
+
+<main >
+
+  <br>
+  <button routerLink="/addIrmao"> Adicionar Irmão</button>
+  <button routerLink="/home">Voltar Para Home</button>
+  <br><br>
+  <div>
+    <div *ngFor="let irmao of listaIrmaos">
+        <div>
+          <li>
+              {{ irmao.nomePublicador }}
+              <button class="btn" [routerLink]="['/addIrmao', irmao.id]"><i class="bi bi-pencil"></i></button>
+              <button class="btn" (click)="delete(irmao.id)"><i class="bi bi-trash"></i></button>
+          </li>
+      </div>
+    </div>
+</div>
+
+
+
+</main>
+
+

@@ -1,0 +1,10 @@
+C:\Users\arauj\c#\ProjetoPesoIdeal\bin\Debug\ProjetoPesoIdeal.exe.config
+C:\Users\arauj\c#\ProjetoPesoIdeal\bin\Debug\ProjetoPesoIdeal.exe
+C:\Users\arauj\c#\ProjetoPesoIdeal\bin\Debug\ProjetoPesoIdeal.pdb
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.csproj.AssemblyReference.cache
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.Form1.resources
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.Properties.Resources.resources
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.csproj.GenerateResource.cache
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.exe
+C:\Users\arauj\c#\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.pdb

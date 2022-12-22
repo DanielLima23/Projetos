@@ -1,0 +1,10 @@
+C:\Users\arauj\c#\Treinamento\bin\Debug\Treinamento.exe.config
+C:\Users\arauj\c#\Treinamento\bin\Debug\Treinamento.exe
+C:\Users\arauj\c#\Treinamento\bin\Debug\Treinamento.pdb
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.csproj.AssemblyReference.cache
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.Properties.Resources.resources
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.csproj.GenerateResource.cache
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.csproj.CoreCompileInputs.cache
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.exe
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.pdb
+C:\Users\arauj\c#\Treinamento\obj\Debug\Treinamento.Calculadora.resources
